@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Airport/ndb.ac 25.211172 64.966322 3.05 180
+OBJECT_SHARED Models/Airport/ils.xml 25.335972 64.933514 13.16 237.38
+OBJECT_SHARED Models/Communications/vordme_1.xml 25.335972 64.933514 13.16 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 25.359283 64.931553 10.81 180
+OBJECT_SHARED Models/Airport/marker.ac 25.211172 64.966322 3.05 180
+OBJECT_SHARED Models/Airport/marker.ac 25.312503 64.940772 16.58 180
+OBJECT_SHARED Models/Airport/localizer.xml 25.383039 64.922797 8.25 211.06
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 25.411293 64.9994537 0 116.27
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 25.3379867 64.9987651 -0.18 88.34
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 25.3199461 64.9923801 0 254.76
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 25.3308729 64.9935067 -0.08 79.92
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 25.1503751 64.9936426 -1.47 0.94
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 25.1529874 64.9927433 -1.4 64.56
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 25.4164667 64.9996247 0 314.38
