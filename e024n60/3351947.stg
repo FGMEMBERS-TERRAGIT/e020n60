@@ -353,3 +353,23 @@ OBJECT_STATIC fi-helsinki-lauttasaari-water_tower.xml 24.8835 60.1629 0 0
 OBJECT_STATIC fi-helsinki-olympic_stadium.xml 24.927 60.1865 19.9 10
 OBJECT_STATIC fi-helsinki-pasila-tower.xml 24.923 60.209 29.56 0
 OBJECT_STATIC fi-helsinki-railwaystation.xml 24.9415 60.171 14.24 97
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 24.90787 60.18835 29.18 226.25
+OBJECT_SHARED Models/lib/cars4.ac 24.90811 60.18847 28.91 46.44
+OBJECT_SHARED Models/lib/cars10.ac 24.90862 60.18842 29.12 225.8
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 24.90970 60.18560 13.26 252.235
+OBJECT_SHARED Models/lib/cars6.ac 24.90762 60.18817 29.39 269.21
+OBJECT_SHARED Models/lib/cars4.ac 24.90781 60.18799 28.19 0
+OBJECT_SHARED Models/lib/cars4.ac 24.90759 60.18799 28.28 0
+OBJECT_SHARED Models/lib/cars10.ac 24.90713 60.18825 29.46 90.2
+OBJECT_SHARED Models/lib/cars10.ac 24.90713 60.18797 29.54 90.2
+OBJECT_SHARED Models/lib/cars6.ac 24.90631 60.19010 27.95 228.16
+OBJECT_SHARED Models/lib/cars6.ac 24.90658 60.18998 27.93 140.52
+OBJECT_SHARED Models/lib/cars4.ac 24.91002 60.18556 13.84 311.36
+OBJECT_SHARED Models/lib/cars4.ac 24.90981 60.18563 13.43 324.75
+OBJECT_SHARED Models/lib/cars10.ac 24.90940 60.18650 17.66 200.28
+OBJECT_SHARED Models/lib/cars10.ac 24.91032 60.18806 26.07 131.92
+OBJECT_SHARED Models/lib/cars10.ac 24.91018 60.18839 27.89 311.92
+# END dsf2stg
