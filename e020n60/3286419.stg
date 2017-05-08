@@ -42,3 +42,9 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 20.7839359 60.3264734 -
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 20.8163802 60.3437697 -0.17 272.83
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 20.796362 60.3343467 0 119.94
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 20.9789537 60.3377473 -0.09 308.43
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 20.79939 60.25001 8.84 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 20.79895 60.25051 6.83 90
+# END dsf2stg
