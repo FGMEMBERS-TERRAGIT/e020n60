@@ -126,3 +126,10 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 29.3140068 61.740475 7
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 29.3195976 61.7397865 75.95 6.23
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 29.338595 61.7377263 75.95 26.83
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 29.2617147 61.7386261 75.99 294.33
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 29.39358 61.72667 0.00 60.6424
+OBJECT_SHARED Models/lib/SmHangar.ac 29.39345 61.72663 77.70 101
+OBJECT_SHARED Models/lib/office3x10.ac 29.39364 61.72676 77.65 11
+# END dsf2stg

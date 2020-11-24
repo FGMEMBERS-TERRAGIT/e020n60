@@ -86,3 +86,13 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 28.8771671 61.8793285 7
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 28.8771671 61.8793285 75.97 303.74
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 28.8859835 61.8764085 75.96 89.95
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 28.8859835 61.8764085 75.96 279.85
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 28.93481 61.94355 0.00 323.73
+OBJECT_SHARED Models/lib/lamp10m.xml 28.93010 61.94466 88.17 -66.37
+OBJECT_SHARED Models/lib/lamp10m.xml 28.92936 61.94491 89.54 162.47
+OBJECT_SHARED Models/lib/lamp10m.xml 28.93506 61.94366 89.73 15.12
+OBJECT_SHARED Models/lib/lamp10m.xml 28.93263 61.94376 88.11 -82.5
+OBJECT_SHARED Models/lib/lamp10m.xml 28.93109 61.94429 88.82 181.19
+# END dsf2stg

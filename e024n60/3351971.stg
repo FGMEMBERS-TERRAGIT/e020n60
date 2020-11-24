@@ -7,3 +7,21 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 24.9865378 60.5028469 78.33 15.2
 OBJECT_SHARED Models/Residential/smallhouse_sweden.ac 24.891801 60.562953 75.4 0
 OBJECT_SHARED Models/Communications/Generic_celular_monopole_20m.ac 24.876555 60.602749 214.95 0
 OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml 24.859791 60.549977 81.89 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83223 60.52260 0.00 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83221 60.52270 72.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83232 60.52280 72.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83241 60.52290 72.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83259 60.52295 72.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83256 60.52307 72.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83241 60.52301 72.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83226 60.52296 72.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83219 60.52288 72.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.83209 60.52281 72.45 0
+OBJECT_SHARED Models/lib/shed8x10.ac 24.82709 60.52150 72.32 114
+OBJECT_SHARED Models/lib/shed8x10.ac 24.82768 60.51999 70.23 135
+OBJECT_SHARED Models/lib/stack_of_cones.ac 24.82939 60.51841 70.15 0
+OBJECT_SHARED Models/Transport/van_red.ac 24.82956 60.51816 70.70 300.96
+# END dsf2stg

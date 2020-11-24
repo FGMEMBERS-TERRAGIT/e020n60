@@ -42,3 +42,10 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 24.1504614 60.0127873 -0.02 248.1
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 24.1716893 60.0155149 -0.02 315.42
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 24.1840645 60.0170668 -0.02 201.38
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 24.2306208 60.0200145 0 199.21
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 24.17494 60.07927 0.00 290.556
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.17497 60.07938 10.63 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac 24.17497 60.07934 10.48 90
+# END dsf2stg
